@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SNow Cookbook Chapter 3">7cb8efc9dbe20010f2109d62ba9619df</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New Custom Record</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_406566_snow_cook_snow_cookbook_chapter_3_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-23 13:54:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3feae74ddbe20010f2109d62ba961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Custom Record</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SNow Cookbook Chapter 3" source="x_406566_snow_cook">94b827c9dbe20010f2109d62ba96197d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNow Cookbook Chapter 3">94b827c9dbe20010f2109d62ba96197d</sys_scope>
+        <sys_update_name>sys_app_module_3feae74ddbe20010f2109d62ba961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-23 13:54:02</sys_updated_on>
+        <timeline_page/>
+        <title>Create New Custom Record</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
