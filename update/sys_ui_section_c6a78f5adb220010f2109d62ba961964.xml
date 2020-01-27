@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c6a78f5adb220010f2109d62ba961964" sys_domain="global" table="x_406566_snow_cook_snow_cookbook_chapter_3_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-27 07:54:05</sys_created_on>
+            <sys_id>9ea78f5adb220010f2109d62ba96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_406566_snow_cook_snow_cookbook_chapter_3_table" sys_domain="global" view="Default view">c6a78f5adb220010f2109d62ba961964</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-27 07:54:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-27 07:58:33</sys_created_on>
+            <sys_id>27a84f9adb220010f2109d62ba96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_406566_snow_cook_snow_cookbook_chapter_3_table" sys_domain="global" view="Default view">c6a78f5adb220010f2109d62ba961964</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-27 07:58:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_406566_snow_cook_snow_cookbook_chapter_3_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-27 07:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6a78f5adb220010f2109d62ba961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_406566_snow_cook_snow_cookbook_chapter_3_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SNow Cookbook Chapter 3" source="x_406566_snow_cook">94b827c9dbe20010f2109d62ba96197d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SNow Cookbook Chapter 3">94b827c9dbe20010f2109d62ba96197d</sys_scope>
+            <sys_update_name>sys_ui_section_c6a78f5adb220010f2109d62ba961964</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-27 07:54:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
